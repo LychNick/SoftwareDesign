@@ -88,5 +88,4 @@ namespace SoftwareDesign
             cal.outCurrentMonth(this, date);
         }
     }
-
 }

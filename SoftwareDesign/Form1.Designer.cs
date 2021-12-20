@@ -37,8 +37,6 @@
             this.Name = "Form1";
             this.Text = "Layout";
             this.ResumeLayout(false);
-
-
         }
 
         #endregion
